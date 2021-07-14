@@ -4,3 +4,4 @@
 </div>
 
 This is a simple, straight-forward implementation of the Android v3 In app purchase server side subscription validation.
+A complete guide for subscriptions in Google Play
